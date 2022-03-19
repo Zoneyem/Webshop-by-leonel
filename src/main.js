@@ -5,6 +5,7 @@ import router from './router'
 import jQuery from 'jquery'
 //windows.$ = window.jQuery = jQuery
 import "bootstrap/dist/js/bootstrap.esm";
+import "@fortawesome/fontawesome-free/js/all.min.js";
 import "popper.js";
 
 

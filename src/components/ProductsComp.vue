@@ -3,11 +3,12 @@
     <div class="container-lg bg-light my-5">
       <h1 class="mb-5 lead display-5">Our Products</h1>
       <div class="row justify-content-center align-items-center">
-        <div class="col col-md-4 text-start">
-          <div class="bg-$gray-500 card justify-content-center">
+
+        <div class="col col-md-4">
+          <div class=" card justify-content-center">
             <img
               src="../assets/laptop1.jpg"
-              class="card-img-top"
+              
               alt="first-card"
             />
 
@@ -21,11 +22,12 @@
             </div>
           </div>
         </div>
-        <div class="col col-md-4 text-start">
+
+        <div class="col col-md-4 ">
           <div class="card justify-content-center">
             <img
               src="../assets/laptop2.jpg"
-              class="card-img-top"
+              
               alt="first-card"
             />
 
@@ -39,11 +41,11 @@
             </div>
           </div>
         </div>
-        <div class="col col-md-4 text-start">
+        <div class="col col-md-4 ">
           <div class="card justify-content-center">
             <img
               src="../assets/laptop3.jpg"
-              class="card-img-top"
+              
               alt="first-card"
             />
 

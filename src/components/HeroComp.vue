@@ -1,8 +1,8 @@
 <template>
      <section id="hero">
-    <div class="container-lg">
+    <div class="container-lg my-5">
       <div class="row justify-content-center align-items-center">
-        <div class="col m-5  justify-content-start align-items-start">
+        <div class="col   justify-content-start align-items-start">
           <div class="text-start justify-content-start">
             <h1 class=" display-5 lead text-secondary">
               Welcome to leonel's shop
@@ -30,7 +30,7 @@
             </div>
           </div>
         </div>
-        <div class="col m-5 d-none d-md-block ">
+        <div class="col  d-none d-md-block ">
           <div class="justify-content-center align-items-center">
             <img class="img-fluid" src="../assets/img1.jpg" alt="" />
           </div>
