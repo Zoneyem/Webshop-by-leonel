@@ -2,14 +2,14 @@
  
   <section id="about">
     <div class="container-lg my-5">
-      <div class="row  align-items-center justify-content-between">
-        <div class="col col-md-5 ">
+      <div class="row  align-items-center  justify-content-between">
+        <div class="d-none col-md-5 d-md-block   ">
           <div>
             <img class="img-fluid " src="../assets/img2.jpg" alt="" />
           </div>
         </div>
 
-        <div class="col col-md-5   text-md-start " >
+        <div class="col  text-md-start col-md-5    " >
           <div class="">
             <h5 class="lead">Learn More About us</h5>
             <p>
