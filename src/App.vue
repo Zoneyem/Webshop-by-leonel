@@ -1,16 +1,16 @@
 <template>
- <NavBarComp/>
+
   <router-view/>
 </template>
 
 
 <script>
-import NavBarComp from "./components/NavBarComp.vue"
+
 export default {
   data() {
     
   },
-  components:{NavBarComp}
+  
 }
 </script>
 <style>

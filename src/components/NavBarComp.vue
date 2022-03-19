@@ -17,6 +17,9 @@
         <li class="nav-item">
           <router-link to="/products" class="nav-link" href="#">Products</router-link>
         </li>
+        <li class="nav-item">
+          <router-link to="/admin" class="nav-link" href="#">Admin</router-link>
+        </li>
        
       </ul>
       <form class="d-flex">
