@@ -2,14 +2,14 @@
  
   <section id="about">
     <div class="container-lg">
-      <div class="row">
-        <div class="col">
+      <div class="row justify-content-center align-items-center">
+        <div class="col ">
           <div>
             <img class="img-fluid" src="../assets/img2.jpg" alt="" />
           </div>
         </div>
-        <div class="col m-5 text-start">
-          <div>
+        <div class="col-md-5  text-center text-md-start">
+          <div class="">
             <h5 class="lead">Learn More About us</h5>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis hic
