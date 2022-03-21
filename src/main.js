@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
+import projectFirestore from './firebase/config'
 
 import jQuery from 'jquery'
 //windows.$ = window.jQuery = jQuery
